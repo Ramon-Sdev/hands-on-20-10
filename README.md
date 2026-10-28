@@ -3,11 +3,6 @@ atividade da faculdade
 
 
 ## Atividades de estruturas de repetição
-
-25 exercícios em Java (um arquivo por exercício, na pasta [src](src)).
-
-Compilar e executar (requer JDK):
-
 ```
 javac -encoding UTF-8 -d out src/*.java
 java -cp out Ex01_Sentinela
